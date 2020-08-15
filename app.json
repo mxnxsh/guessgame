@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "predictGame",
-    "slug": "predictGame",
+    "slug": "guessgame",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "guess game",
+    "githubUrl": "https://github.com/mxnxsh"
   }
 }
